@@ -1,0 +1,16 @@
+{
+  "name": "react-native-open-url",
+  "version": "1.0.0",
+  "description": "An open-with module for React Native over iOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dotan Nahum",
+  "homepage": "https://github.com/jondot/react-native-open-url",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jondot/react-native-open-url.git"
+  },
+  "license": "ISC"
+}
